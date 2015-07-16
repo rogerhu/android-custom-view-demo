@@ -2,5 +2,5 @@
 
 Includes the complete demo code for:
 
-* Measurment demo (AspectRatioImageView)
+* Measurement demo (AspectRatioImageView)
 * Layout demo (LinearLayout)
